@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "https://earthbridge.eu/wp-content/uploads/2024/06/20240624_104005-2048x2048.jpg"
+  name             : "David Moravec"
+  pronouns         : # example: ""  
+  bio              : "Remote Sensing Scientist"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Post-doctoral researcher at Junior Professorship for Environmental Remote Sensing, Faculty of Environmental Sciences, TU Dresden"
   uri              : # URL
   email            : "none@example.org" 
 
