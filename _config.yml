@@ -33,10 +33,10 @@ author:
   # Academic websites
   #arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KJJk5YwAAAAJ"
-  #impactstory      :
+  impactstory      :
   orcid            : "http://orcid.org/0000-0003-4348-2815"
-  #semantic         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  semantic         :
+  pubmed           : 
   researchgate     : "www.researchgate.net/profile/David_Moravec"# URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57200843061"
 
