@@ -31,12 +31,12 @@ author:
   email            : "dmoravec@fzp.czu.cz" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  #arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KJJk5YwAAAAJ"
-  impactstory      : # URL
+  #impactstory      :
   orcid            : "http://orcid.org/0000-0003-4348-2815"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #semantic         :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "www.researchgate.net/profile/David_Moravec"# URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57200843061"
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/panmoravec"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
