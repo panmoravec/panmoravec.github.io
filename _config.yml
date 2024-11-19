@@ -21,24 +21,24 @@ repository               : "panmoravec/panmoravec.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "https://earthbridge.eu/wp-content/uploads/2024/06/20240624_104005-2048x2048.jpg"
+  name             : "David Moravec"
+  pronouns         : # example:  
+  bio              : "Remote Sensing Scientist"
+  location         : "Prague/Dresden"
+  employer         : "ČZU / TUD"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dmoravec@fzp.czu.cz" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=KJJk5YwAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-4348-2815"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "www.researchgate.net/profile/David_Moravec"# URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57200843061"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
