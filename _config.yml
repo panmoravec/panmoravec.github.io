@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "David Moravec"
 title_separator          : "-"
 name                     : &name "David Moravec"
 description              : &description "David Moravec Personal Web"
