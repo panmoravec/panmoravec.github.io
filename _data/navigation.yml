@@ -8,8 +8,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "WaCoRe-EU"
-    url: /_pages/WaCoRe.md
+  - title: "WaCoRe"
+    url: /WaCoRe/
 
 #  - title: "Publications"
 #    url: /publications/
