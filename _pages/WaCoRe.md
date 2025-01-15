@@ -1,5 +1,5 @@
 ---
-permalink: /wacore/
+permalink: /WaCoRe/
 title: "WaCoRE"
 author_profile: true
 redirect_from: 
