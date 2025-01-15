@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hi, and thank you for stopping by!**
+## Hi, and thank you for stopping by!
 
 I am passionate about remote sensing and its diverse applications in environmental science. My career has been defined by engaging in various research projects, including environmental classification, forest monitoring, climate phenomenon analysis, and assessing light pollution.
 
