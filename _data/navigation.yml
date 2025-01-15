@@ -11,8 +11,8 @@ main:
   - title: "WaCoRe"
     url: /WaCoRe/
 
-  - title: "WaCoRe2-Publications"
-    url: /publications/
+#  - title: "publications"
+#    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
