@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "David Moravec"
 title_separator          : "-"
-name                     : &name "About me"
+name                     : &name "David Moravec"
 description              : &description "David Moravec Personal Web"
 url                      : https://panmoravec.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -37,7 +37,7 @@ author:
   orcid            : "http://orcid.org/0000-0003-4348-2815"
   semantic         :
   pubmed           : 
-  researchgate     : "www.researchgate.net/profile/David_Moravec"# URL
+  researchgate     : "https://www.researchgate.net/profile/David_Moravec"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57200843061"
 
   # Repositories and software development
