@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
-I am a dedicated remote sensing scientist primarily focusing on environmental applications. My career has been characterized by various research projects involving environmental classification, forest monitoring, climate phenomena analysis, and light pollution assessment. At present, my primary research concentration is on microwave sensing for moisture monitoring.
+**Hi, and thank you for stopping by!**
+I am passionate about remote sensing and its diverse applications in environmental science. My career has been defined by engaging in various research projects, including environmental classification, forest monitoring, climate phenomenon analysis, and assessing light pollution.
 
-From the year 2024, I am an MSCA-CZ (Marie Skłodowska-Curie Actions CZ) fellow at Matthias Forkel's lab Environmental Remote Sensing at TU Dresden!
+Currently, my primary research focuses on microwave sensing for soil moisture monitoring, exploring how this technology can advance our understanding of environmental processes.
+
+As of 2024, I am proud to be an MSCA-CZ (Marie Skłodowska-Curie Actions CZ) fellow at Matthias Forkel’s Environmental Remote Sensing lab at TU Dresden.
+
+![](images/NDVI_trend.JPG)
