@@ -16,6 +16,6 @@ This method can be used in the future to make more accurate estimates of moistur
 
 Poster preview of WaCoRe project from ESA BioSpace25 conference is [HERE](/images/Biospace25_small.tif)
 
-![Project Sketch](/images/Sketch.png  width="200" height="400")
+![Project Sketch](/images/Sketch.png)
 
 
